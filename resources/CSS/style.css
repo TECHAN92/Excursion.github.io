@@ -1,0 +1,54 @@
+html {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana;
+}
+
+.header { 
+font-size: 50px ;
+font-weight: normal;
+color: white;
+text-align: center ;
+}
+
+.download {
+padding-top: 30px;
+font-size: 16px;
+color: aquamarine;
+text-decoration: underline;
+text-align: center;
+}
+
+.Video {
+display: inline;
+
+position: center;
+}
+
+.Title {
+padding-top: 30px;
+font-weight: 300;
+font-size: 42px;
+color: white;
+}
+
+.frame { 
+font-size: 21px;
+color: gray;
+}
+.Phone {
+padding-top: 25px;
+}
+
+.coming {
+color: white;
+padding-top: 30px;
+font-size: 42px;
+font-weight: 300;
+}
+
+.footer {
+color: gray;
+text-align: right;
+
+}
